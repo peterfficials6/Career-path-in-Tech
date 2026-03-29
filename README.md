@@ -14,7 +14,7 @@
 
 ---
 
-## DATA SCIENTIST 
+## 2.DATA SCIENTIST 
 ## Role
 - an analytical expert who utilizes statistics, machine learning, programming (Python, R, SQL), and domain knowledge to analyze, model, and interpret complex dataset
 ## Key Responsibilities and Skills
